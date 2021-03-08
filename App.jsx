@@ -1,6 +1,5 @@
 import React from 'react';
 import Formulario from './components/Formulario';
-import Index from './index.css';
 
 function App() {
 
